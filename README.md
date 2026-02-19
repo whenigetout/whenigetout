@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **whenigetout/whenigetout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ajay Kumar Sunki
+
+AI Systems Engineer | Full-Stack Developer | Automation Architect
+
+## 🔭 Currently building: **MangaNarrator** 
+- A distributed AI narration system. The "Flagship" project on my resume.
+- This is a modular AI-powered media pipelines that convert raw visual content into structured, narrated, and monetizable outputs.
+
+## 🚀 Flagship Project
+
+### MangaNarrator
+
+A modular AI pipeline that transforms manga/manhwa chapters into fully narrated video content.
+
+### Architecture
+
+- 🧠 OCR Service 1 (Vision models + text extraction)
+- 🌿 OCR Service 2 (Bounding Box Mapping)
+- 🎙 TTS Engine (Emotion-aware voice synthesis)
+- 🎬 Video Builder (FFmpeg-based compositing)
+- 🌐 Frontend (TypeScript UI for orchestration)
+- 🔗 Django Orchestrator
+- 📦 Shared Contracts Layer
+
+Designed for scalability, automation, and content monetization.
+
+## 🛠 Technical Focus
+
+- AI Pipeline Architecture
+- OCR & Vision Model Integration
+- Emotion-Controlled TTS Systems
+- FFmpeg Video Automation
+- Full-Stack TypeScript + Python Systems
+- Microservice-Oriented Design
+- Model Quantization & Local Inference Optimization
+
+## 💼 Open to
+
+- Remote AI Engineering Roles
+- Automation & AI Integration Contracts
+- High-Performance Backend Systems
+
