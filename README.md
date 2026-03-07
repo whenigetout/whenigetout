@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 AI Systems Engineer | Full-Stack Developer | Automation Architect
 
 ## 🔭 Currently building: **MangaNarrator** 
-- A distributed AI narration system. The "Flagship" project on my resume.
+- A distributed AI-powered narration and video production system. 
 - This is a modular AI-powered media pipelines that convert raw visual content into structured, narrated, and monetizable outputs.
 
 ## 🚀 Flagship Project
@@ -47,11 +47,12 @@ Designed for scalability, automation, and content monetization.
 - FFmpeg Video Automation
 - Full-Stack TypeScript + Python Systems
 - Microservice-Oriented Design
-- Model Quantization & Local Inference Optimization
+- Model Local Inference Optimization
 
 ## 💼 Open to
 
-- Remote AI Engineering Roles
+- Remote (Applied) AI Engineering Roles
 - Automation & AI Integration Contracts
 - High-Performance Backend Systems
+- Full-stack Engineering (Senior) roles
 
