@@ -54,5 +54,5 @@ Designed for scalability, automation, and content monetization.
 - Remote (Applied) AI Engineering Roles
 - Automation & AI Integration Contracts
 - High-Performance Backend Systems
-- Full-stack Engineering (Senior) roles
+- Full-stack Engineer (Senior) roles
 
