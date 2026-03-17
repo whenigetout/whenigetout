@@ -19,7 +19,7 @@ AI Systems Engineer | Full-Stack Developer | Automation Architect
 
 ## 🔭 Currently building: **MangaNarrator** (https://github.com/whenigetout/manganarrator)
 - A distributed AI-powered narration and video production system. 
-- This is a modular AI-powered media pipelines that convert raw visual content into structured, narrated, and monetizable outputs.
+- This is a modular AI-powered media pipeline that converts raw visual content into structured, narrated, and monetizable outputs.
 
 ## 🚀 Flagship Project
 
